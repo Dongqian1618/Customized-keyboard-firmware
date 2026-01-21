@@ -1,6 +1,6 @@
 # Customized-keyboard-firmware
 If your keyboard becomes cracked during the upgrade process, you can download the corresponding keyboard firmware and insert it into the USB port to perform the upgrade again.
-注：文件夹名称hub代表小键盘带hub，n代表旋钮数量，如有升级错误，可按住键盘第一行第一个和第三个按键再重新上电强制进入bootloard，方可再次升级正确程序
+/n 注：文件夹名称hub代表小键盘带hub，n代表旋钮数量，如有升级错误，可按住键盘第一行第一个和第三个按键再重新上电强制进入bootloard，方可再次升级正确程序
 
 2024/06/18 优化灯效获取部分上位机协议，修改旋钮按键断触问题
 2024/09/26 修正旋钮顺逆时针键值
